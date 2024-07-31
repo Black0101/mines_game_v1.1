@@ -1,3 +1,7 @@
+LINK BOT https://t.me/linamineshack
+
+
+
 ❔ HOW TO RECEIVE SIGNALS❔
 
 ✦ In order for the bot to work and send signals, you need to create a New Account at the link:
